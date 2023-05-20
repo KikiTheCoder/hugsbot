@@ -2,7 +2,3 @@ version: '3.9'
 services:
   bot:
     build: .
-    environment:
-      - TOKEN=MTEwOTU0NjcwNzk5OTUyNjk1Mw.GnldxO.ocE58Bh_zmdKy9_HRMS-F3K7plmQCzf007UV9w
-      - CLIENT_ID=1109546707999526953
-      - GUILD_ID=1020812063423090738
